@@ -1,0 +1,3 @@
+0 SG One Dollar Coin
+1 SG Twenty Cent Coin
+2 SG Ten Cent Coin
