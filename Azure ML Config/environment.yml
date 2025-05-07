@@ -1,0 +1,12 @@
+name: coin_classifier_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pip
+  - pip:
+    - tensorflow==2.13.0
+    - pillow
+    - numpy
+    - azureml-inference-server-http>=0.4.0
+    - azureml-core
